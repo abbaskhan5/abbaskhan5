@@ -1,11 +1,10 @@
-![logo
 <h1 align="center">Hi 👋, I'm Abbas Khan</h1>
-<h3 align="center">A passionate WordPress and React JS MERN Stack Developer from Pakistan.</h3>
+<h3 align="center">A passionate React JS MERN Stack Developer and WordPress Developer from Pakistan.</h3>
 <img align="right" alt="coding" width="500" src="https://camo.githubusercontent.com/ad28cab36fa44e2f77a63970bcbb06660efdd314ed9168ec140d7b222dc2ae9e/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966">
 - 🌱 I’m currently learning **React JS, WordPress, and MERN Stack**</br>
 - 👨‍💻 All of my projects are available at (https://github.com/abbaskhan5/)
 
-- 💬 Ask me about **WordPress, React JS, MERN Stack Development**
+- 💬 Ask me about ** React JS, MERN Stack Development, WordPress**
 
 - 📫 How to reach me **abbask332322@gmail.com**
 
