@@ -54,3 +54,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abbaskhan5&show_icons=true&locale=en&layout=compact" alt="abbaskhan5" />
 </p>
+### Skills
+| Language/Framework | Proficiency |
+|--------------------|-------------|
+| ![HTML](https://img.shields.io/badge/HTML-95%25-orange)        | 95%         |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-90%25-yellow) | 90%         |
+| ![CSS](https://img.shields.io/badge/CSS-90%25-blue)              | 90%         |
+| ![Tailwind CSS](https://img.shields.io/badge/Tailwind-95%25-teal) | 95%         |
+| ![React JS](https://img.shields.io/badge/React%20JS-90%25-lightblue) | 90%      |
+
