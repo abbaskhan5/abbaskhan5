@@ -54,6 +54,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abbaskhan5&show_icons=true&locale=en&layout=compact" alt="abbaskhan5" />
 </p>
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=abbaskhan5&show_icons=true&locale=en&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abbaskhan5&show_icons=true&locale=en&layout=compact" alt="abbaskhan5's Top Languages" />
+  </a>
+</p>
 ### Skills
 | Language/Framework | Proficiency |
 |--------------------|-------------|
