@@ -4,7 +4,7 @@
 <h2 align="center">MERN Stack Developer & WordPress Website Designer</h2>
 <h3 align="center">Highly dedicated MERN Stack Developer from Pakistan, also specializing in WordPress website development.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/ad28cab36fa44e2f77a63970bcbb06660efdd314ed9168ec140d7b222dc2ae9e/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966" />
+<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif" />
 
 - 🌱 I’m currently learning **Laravel** and **WordPress Theme Development**.
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/abbaskhan5).
