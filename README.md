@@ -2,7 +2,7 @@
 <a href="https://github.com/abbaskhan5">
     <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" 
          alt="WordPress" 
-         style="width:1000px; height:150px;">
+         style="width:1050px; height:150px;">
 </a>
 
 
