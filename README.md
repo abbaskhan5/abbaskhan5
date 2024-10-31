@@ -6,7 +6,7 @@
 </a>
 
 
-<h1 align="center">Hi 👋, I'm ABBAS KHAN</h1>
+<h1 align="">Hi 👋, I'm ABBAS KHAN</h1>
 <h2 align="center">MERN Stack Developer & WordPress Website Designer</h2>
 <h3 align="center">Highly dedicated MERN Stack Developer from Pakistan, also specializing in WordPress website development.</h3>
 
