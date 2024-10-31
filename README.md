@@ -1,4 +1,6 @@
 ![logo](https://raw.githubusercontent.com/abbaskhan5/abbaskhan5/refs/heads/main/image%20banner.jfif)
+[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/abbaskhan5)
+
 
 <h1 align="center">Hi 👋, I'm ABBAS KHAN</h1>
 <h2 align="center">MERN Stack Developer & WordPress Website Designer</h2>
