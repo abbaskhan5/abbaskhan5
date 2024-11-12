@@ -1,4 +1,4 @@
-<div align="center height: 250px">
+<div align="center">
 
   ![logo](https://raw.githubusercontent.com/abbaskhan5/abbaskhan5/refs/heads/main/image%20banner.jfif)
 
@@ -82,9 +82,9 @@ I am a passionate MERN Stack Developer and WordPress Website Designer with a kna
 
 ## 🤝 Let's Connect
 - 💼 Available for freelance or collaborative projects
-- 📧 Reach me at: abbask332321@gmail.com
+- 📧 Reach me at: your-email@gmail.com
 - 🌐 Portfolio: [abbas-khan-portfolio.com](https://your-portfolio-link.com)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abbaskhan5&color=blueviolet&count_private=true&views=1200" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=abbaskhan5&color=blueviolet&count_private=true&views=2000" alt="Profile Views" />
 </div>
