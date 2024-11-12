@@ -1,11 +1,11 @@
-<div align="center">
+<div align="center height: 250px">
 
   ![logo](https://raw.githubusercontent.com/abbaskhan5/abbaskhan5/refs/heads/main/image%20banner.jfif)
 
   <a href="https://github.com/abbaskhan5">
       <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" 
            alt="WordPress" 
-           style="width:1050px; height:100px;">
+           style="width:1050px; height:150px;">
   </a>
 
   # Hi there! 👋 I'm Abbas Khan
