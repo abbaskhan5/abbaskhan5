@@ -12,7 +12,7 @@
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=microsoft-edge&logoColor=white)](https://your-portfolio-link.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abbas-khan-profile/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbask332321@gmail.com)
 
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=MERN+Stack+Website+Developer;WordPress+Website+Designer;React.js+Developer;Full-Stack+Developer;PHP+Developer" alt="Typing SVG" />
@@ -82,7 +82,7 @@ I am a passionate MERN Stack Developer and WordPress Website Designer with a kna
 
 ## 🤝 Let's Connect
 - 💼 Available for freelance or collaborative projects
-- 📧 Reach me at: your-email@gmail.com
+- 📧 Reach me at: abbask332321@gmail.com
 - 🌐 Portfolio: [abbas-khan-portfolio.com](https://your-portfolio-link.com)
 
 <div align="center">
