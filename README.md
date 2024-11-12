@@ -82,9 +82,9 @@ I am a passionate MERN Stack Developer and WordPress Website Designer with a kna
 
 ## 🤝 Let's Connect
 - 💼 Available for freelance or collaborative projects
-- 📧 Reach me at: abbask332321@gmail.com
+- 📧 Reach me at: your-email@gmail.com
 - 🌐 Portfolio: [abbas-khan-portfolio.com](https://your-portfolio-link.com)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abbaskhan5&color=blueviolet" alt="Profile Views" /500>
+  <img src="https://komarev.com/ghpvc/?username=abbaskhan5&color=blueviolet&count_private=true&views=1200" alt="Profile Views" />
 </div>
