@@ -1,5 +1,13 @@
 <div align="center">
 
+  ![logo](https://raw.githubusercontent.com/abbaskhan5/abbaskhan5/refs/heads/main/image%20banner.jfif)
+
+  <a href="https://github.com/abbaskhan5">
+      <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" 
+           alt="WordPress" 
+           style="width:1050px; height:150px;">
+  </a>
+
   # Hi there! 👋 I'm Abbas Khan
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=microsoft-edge&logoColor=white)](https://your-portfolio-link.com)
@@ -29,7 +37,10 @@ I am a passionate MERN Stack Developer and WordPress Website Designer with a kna
 ## 💻 Tech Stack
 <div align="center">
 
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
