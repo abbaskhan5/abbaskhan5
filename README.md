@@ -82,7 +82,7 @@ I am a passionate MERN Stack Developer and WordPress Website Designer with a kna
 
 ## 🤝 Let's Connect
 - 💼 Available for freelance or collaborative projects
-- 📧 Reach me at: your-email@gmail.com
+- 📧 Reach me at: abbask332321@gmail.com
 - 🌐 Portfolio: [abbas-khan-portfolio.com](https://your-portfolio-link.com)
 
 <div align="center">
