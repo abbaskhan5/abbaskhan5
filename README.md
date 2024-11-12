@@ -1,56 +1,77 @@
 <div align="center">
+  
+  # Hi there! 👋 I'm Haseeb Ahmad 
 
-  # Hi there! 👋 I'm Abbas Khan
-
-  [![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=microsoft-edge&logoColor=white)](https://your-portfolio-link.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abbas-khan-profile/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-
+  [![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=microsoft-edge&logoColor=white)](https://haseebyousafxai.github.io/HaseebYousafxai/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/haseebahmadiuse/))
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haseebyousafxai81@gmail.com) 
+  
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=WordPress+Website+Designer;React.js+Developer;PHP+Developer;MERN+Stack+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Data+Scientist;Machine+Learning+Engineer;AI+Enthusiast;Data+Analyst;Software+Engineer" alt="Typing SVG" />
   </p>
 </div>
 
 ## 🎯 About Me
 
-Creative and dedicated web developer with a passion for building dynamic and responsive web applications. My expertise includes crafting elegant and efficient frontend designs as well as developing robust backend functionalities. I love solving problems and learning new technologies to improve my skill set.
+Passionate Data Scientist and Machine Learning Engineer with expertise in developing data-driven solutions. I specialize in transforming complex data into actionable insights and building intelligent systems that solve real-world problems.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HaseebYousafxai&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ## 🔥 Expertise
-- 🌐 Web Development (Frontend & Backend)
-- ⚛️ React.js & Modern JavaScript Frameworks
-- 🛠️ WordPress Website Design & Customization
-- 💻 PHP & MySQL Development
-- 🖌️ Responsive UI/UX Design
+- 📊 Data Analysis & Visualization
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 📈 Predictive Modeling
+- 🔍 Statistical Analysis
 
 ## 💻 Tech Stack
 <div align="center">
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 </div>
 
 ## 🎯 Featured Projects
 
-- **[MERN Stack Project: JSON Tree API](https://github.com/YourGitHubUsername/YourMERNProject)**  
-  Full-featured website using the MERN stack and JSON Tree API.
-  
-- **[Frute Website](https://github.com/YourGitHubUsername/frute-website)**  
-  A frontend-only project developed with Tailwind CSS and React.js.
+<div align="center">
+  <a href="https://github.com/HaseebYousafxai/Oasis-Infobyte-tasks/blob/main/carpriceprediction.ipynb">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HaseebYousafxai&repo=Oasis-Infobyte-tasks&theme=radical" />
+  </a>
+  <a href="https://github.com/HaseebYousafxai/Pinnacle_Tasks/blob/main/creditcardfraudnotebook.ipynb">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HaseebYousafxai&repo=Pinnacle_Tasks&theme=radical" />
+  </a>
+</div>
 
-- **[WordPress Portfolio](https://your-portfolio-link.com)**  
-  Custom-designed WordPress website showcasing projects and skills.
+### 🚀 Key Projects
+1. *Car Price Prediction*
+   - Advanced regression model for accurate car price predictions
+   - Achieved 94% prediction accuracy
+   - [View Project](https://github.com/HaseebYousafxai/Oasis-Infobyte-tasks/blob/main/carpriceprediction.ipynb)
 
----
+2. *Credit Card Fraud Detection*
+   - Real-time fraud detection system using machine learning
+   - 99.5% fraud detection accuracy
+   - [View Project](https://github.com/HaseebYousafxai/Pinnacle_Tasks/blob/main/creditcardfraudnotebook.ipynb)
 
-Feel free to customize the links, icons, and details as needed!
+## 📈 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaseebYousafxai&theme=radical" alt="GitHub Streak" />
+</div>
+
+## 🤝 Let's Connect
+- 💼 Open to collaborating on AI and Data Science projects
+- 📧 Reach me at: haseebyousafxai81@gmail.com
+- 🌐 Portfolio: [haseebahmad.netlify.app](https://haseebyousafxai.github.io/HaseebYousafxai/)
+
+<div align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=HaseebYousafxai&color=blueviolet" alt="Profile Views" />
+</div>
