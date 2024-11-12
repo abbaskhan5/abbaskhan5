@@ -1,66 +1,56 @@
-![logo](https://raw.githubusercontent.com/abbaskhan5/abbaskhan5/refs/heads/main/image%20banner.jfif)
-<a href="https://github.com/abbaskhan5">
-    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" 
-         alt="WordPress" 
-         style="width:1050px; height:150px;">
-</a>
+<div align="center">
 
+  # Hi there! 👋 I'm Abbas Khan
 
-<h1 align="center">Hi 👋, I'm ABBAS KHAN</h1>
-<h2 align="">MERN Stack Developer & WordPress Website Designer</h2>
-<h3 align="center">Highly dedicated MERN Stack Developer from Pakistan, also specializing in WordPress website development.</h3>
+  [![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=microsoft-edge&logoColor=white)](https://your-portfolio-link.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abbas-khan-profile/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
-<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif" />
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=WordPress+Website+Designer;React.js+Developer;PHP+Developer;MERN+Stack+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
+  </p>
+</div>
 
-- 🌱 I’m currently learning **Laravel** and **WordPress Theme Development**.
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/abbaskhan5).
-- 💬 Ask me about **MERN Stack Development, Laravel, and WordPress**.
-- 📫 How to reach me: **abbask332322@gmail.com** | **+92-3419768520**
+## 🎯 About Me
+
+Creative and dedicated web developer with a passion for building dynamic and responsive web applications. My expertise includes crafting elegant and efficient frontend designs as well as developing robust backend functionalities. I love solving problems and learning new technologies to improve my skill set.
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
+## 🔥 Expertise
+- 🌐 Web Development (Frontend & Backend)
+- ⚛️ React.js & Modern JavaScript Frameworks
+- 🛠️ WordPress Website Design & Customization
+- 💻 PHP & MySQL Development
+- 🖌️ Responsive UI/UX Design
+
+## 💻 Tech Stack
+<div align="center">
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+</div>
+
+## 🎯 Featured Projects
+
+- **[MERN Stack Project: JSON Tree API](https://github.com/YourGitHubUsername/YourMERNProject)**  
+  Full-featured website using the MERN stack and JSON Tree API.
+  
+- **[Frute Website](https://github.com/YourGitHubUsername/frute-website)**  
+  A frontend-only project developed with Tailwind CSS and React.js.
+
+- **[WordPress Portfolio](https://your-portfolio-link.com)**  
+  Custom-designed WordPress website showcasing projects and skills.
 
 ---
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/abbaskhan5/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="abbaskhan" height="30" width="30" /></a>
-<a href="https://github.com/abbaskhan5" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="abbaskhan5" height="30" width="30" /></a>
-</p>
-
----
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abbaskhan5&show_icons=true&locale=en&layout=compact" alt="abbaskhan5" />
-</p>
-
-### Skills
-| Language/Framework | Proficiency |
-|--------------------|-------------|
-| ![HTML](https://img.shields.io/badge/HTML-95%25-orange)        | 95%         |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-90%25-yellow) | 90%         |
-| ![CSS](https://img.shields.io/badge/CSS-90%25-blue)              | 90%         |
-| ![Tailwind CSS](https://img.shields.io/badge/Tailwind-95%25-teal) | 95%         |
-| ![React JS](https://img.shields.io/badge/React%20JS-90%25-lightblue) | 90%      |
-
+Feel free to customize the links, icons, and details as needed!
