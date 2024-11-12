@@ -24,7 +24,7 @@
 I am a passionate MERN Stack Developer and WordPress Website Designer with a knack for creating efficient, dynamic, and visually appealing web solutions. My goal is to build user-friendly web applications that solve real-world problems, while continuously learning and growing as a developer.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abbaskhan5&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ## 🔥 Expertise
@@ -55,29 +55,29 @@ I am a passionate MERN Stack Developer and WordPress Website Designer with a kna
 ## 🎯 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/YourGitHubUsername/YourMERNProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=YourMERNProject&theme=radical" />
+  <a href="https://github.com/abbaskhan5/Structur-Limited---Landing-Page.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abbaskhan5&repo=Structur-Limited---Landing-Page&theme=radical" />
   </a>
-  <a href="https://github.com/YourGitHubUsername/frute-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=frute-website&theme=radical" />
+  <a href="https://github.com/abbaskhan5/mern-json-tree-api-website.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abbaskhan5&repo=mern-json-tree-api-website&theme=radical" />
   </a>
 </div>
 
 ### 🚀 Key Projects
-1. *MERN Stack Project: JSON Tree API*
-   - Complete full-stack application using the JSON Tree API
-   - Built with MongoDB, Express, React.js, and Node.js
-   - [View Project](https://github.com/YourGitHubUsername/YourMERNProject)
+1. *Structure Limited Landing Page*
+   - A modern, responsive landing page for Structure Limited
+   - Built using HTML, CSS, and JavaScript
+   - [View Project](https://github.com/abbaskhan5/Structur-Limited---Landing-Page.git)
 
-2. *Frute Website*
-   - Responsive frontend website using Tailwind CSS and React.js
-   - Showcases modern design and functionality
-   - [View Project](https://github.com/YourGitHubUsername/frute-website)
+2. *MERN JSON Tree API Website*
+   - Complete full-stack website using the JSON Tree API
+   - Built with MongoDB, Express, React.js, and Node.js
+   - [View Project](https://github.com/abbaskhan5/mern-json-tree-api-website.git)
 
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbaskhan5&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 🤝 Let's Connect
@@ -86,5 +86,5 @@ I am a passionate MERN Stack Developer and WordPress Website Designer with a kna
 - 🌐 Portfolio: [abbas-khan-portfolio.com](https://your-portfolio-link.com)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=abbaskhan5&color=blueviolet" alt="Profile Views" />
 </div>
